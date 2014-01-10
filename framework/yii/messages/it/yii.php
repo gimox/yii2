@@ -57,7 +57,7 @@ return array (
   'Please fix the following errors:' => 'Per favore correggi i seguenti errori:',
   'Please upload a file.' => 'Per favore carica il file.',
   'Recoverable Error' => 'Errore rimediabile',
-  'Showing <b>{begin, number}-{end, number}</b> of <b>{totalCount, number}</b> {totalCount, plural, one{item} other{items}}.' =>'Mostro <b>{begin, number}-{end, number}</b> di <b>{totalCount, number}</b> {totalCount, plural, one{item} other{items}}.',
+  'Showing <b>{begin, number}-{end, number}</b> of <b>{totalCount, number}</b> {totalCount, plural, one{item} other{items}}.' =>'Mostro <b>{begin, number}-{end, number}</b> di <b>{totalCount, number}</b> {totalCount, plural, one{oggetto} other{oggetti}}.',
   'Stale Object Exception' => 'Eccezione Oggetto Datato',
   'Strict' => 'Severo',
   'The file "{file}" is not an image.' =>  'Questo file "{file}" non è una immagine.',
